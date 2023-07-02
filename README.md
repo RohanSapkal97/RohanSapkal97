@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rohansapkal995@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xTfFwgh49Vk7AhlfZVOastS6mQiTDeca/view?usp=sharing](https://drive.google.com/file/d/1xTfFwgh49Vk7AhlfZVOastS6mQiTDeca/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1VCQFRSNMk_bcj63qQHWUj5gW9URhMFU8/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
