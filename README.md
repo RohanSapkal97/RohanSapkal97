@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Sapkal</h1>
-<h3 align="center">Experienced as a Data Scientist for over 2.5 years, I am highly driven and enthusiastic about constructing models to address various challenges. My expertise lies in machine learning, programming, problem-solving, and innovative thinking.</h3>
+<h3 align="center">Experienced as a Data Scientist, I am highly driven and enthusiastic about constructing models to address various challenges. My expertise lies in machine learning, programming, problem-solving, and innovative thinking.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
