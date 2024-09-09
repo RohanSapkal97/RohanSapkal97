@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data Science, Machine Learning, Deep Learning, NLP**
 
-- 📫 How to reach me **rohansapkal995@gmail.com**
+- 📫 How to reach me **rohansapkal997@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
